@@ -134,5 +134,9 @@ dmypy.json
 .idea/
 .DS_Store/
 junk/
-test/
 source/
+data_for_testing/
+bad/
+source/
+target/
+static/
