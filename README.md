@@ -1,5 +1,6 @@
 # Zangetsu
 First Project
+#Renamed as DataFlowParsing
 
 This project will be my first python project after completing Python Boot Camp, 
 The objective is to create a custom data parser for Energy Industry Data Flow files in order to turn them to a format that is loadable to any relational database even readible from the files itself.
